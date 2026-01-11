@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=ChinmayCJ7&style=for-the-badge" />
+
 # 💫 About Me:
 - 🎓 B.E Computer Science Engineering at PES College of Engineering, Mandya  <br>- 💻 Interested in Full Stack Development and Backend Engineering  <br>- 🚀 Built real-world projects using React, Node.js, Express, MongoDB  <br>- 🔐 Experience with JWT authentication and REST API design  <br>- 🌱 Currently improving DSA, system design, and cloud fundamentals 
 
